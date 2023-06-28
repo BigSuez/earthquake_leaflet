@@ -1,0 +1,32 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+}
+
+text {
+  text-align: center;
+}
+
+#legendTitle {
+  color: rgb(216, 19, 19);
+  text-align: right;
+  padding: 0px;
+}
+
+.info {
+  background-color: rgb(245, 222, 179, .7);
+  
+}
